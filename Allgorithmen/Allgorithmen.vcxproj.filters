@@ -18,12 +18,30 @@
     <ClInclude Include="Wurzel.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
+    <ClInclude Include="PrimzahlenBisN.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="GGT.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Pi.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Allgorithmen.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
     <ClCompile Include="Wurzel.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimzahlenBisN.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="GGT.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Pi.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>

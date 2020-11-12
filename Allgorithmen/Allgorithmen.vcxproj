@@ -151,10 +151,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="GGT.h" />
+    <ClInclude Include="Pi.h" />
+    <ClInclude Include="PrimzahlenBisN.h" />
     <ClInclude Include="Wurzel.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Allgorithmen.cpp" />
+    <ClCompile Include="GGT.cpp" />
+    <ClCompile Include="Pi.cpp" />
+    <ClCompile Include="PrimzahlenBisN.cpp" />
     <ClCompile Include="Wurzel.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
