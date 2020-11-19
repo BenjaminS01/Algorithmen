@@ -27,6 +27,9 @@
     <ClInclude Include="Pi.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
+    <ClInclude Include="Integral.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Allgorithmen.cpp">
@@ -42,6 +45,9 @@
       <Filter>Quelldateien</Filter>
     </ClCompile>
     <ClCompile Include="Pi.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Integral.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>

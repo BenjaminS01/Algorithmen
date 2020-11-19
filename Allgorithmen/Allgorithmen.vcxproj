@@ -152,6 +152,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="GGT.h" />
+    <ClInclude Include="Integral.h" />
     <ClInclude Include="Pi.h" />
     <ClInclude Include="PrimzahlenBisN.h" />
     <ClInclude Include="Wurzel.h" />
@@ -159,6 +160,7 @@
   <ItemGroup>
     <ClCompile Include="Allgorithmen.cpp" />
     <ClCompile Include="GGT.cpp" />
+    <ClCompile Include="Integral.cpp" />
     <ClCompile Include="Pi.cpp" />
     <ClCompile Include="PrimzahlenBisN.cpp" />
     <ClCompile Include="Wurzel.cpp" />
