@@ -1,9 +1,7 @@
 #include "PrimzahlenBisN.h"
-#include <math.h>
-#include <cmath>
-#include<vector>
 
-#include <iostream>
+
+
 
 PrimzahlenBisN::PrimzahlenBisN()
 {

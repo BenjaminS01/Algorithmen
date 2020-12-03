@@ -30,6 +30,12 @@
     <ClInclude Include="Integral.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
+    <ClInclude Include="Regression.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="DG.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Allgorithmen.cpp">
@@ -48,6 +54,12 @@
       <Filter>Quelldateien</Filter>
     </ClCompile>
     <ClCompile Include="Integral.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Regression.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="DG.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,5 +1,4 @@
 #include "Wurzel.h"
-#include <math.h>
 #include <cmath>
 
 
