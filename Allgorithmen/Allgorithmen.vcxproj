@@ -153,6 +153,7 @@
   <ItemGroup>
     <ClInclude Include="DG.h" />
     <ClInclude Include="GGT.h" />
+    <ClInclude Include="Gleichunssystem.h" />
     <ClInclude Include="Integral.h" />
     <ClInclude Include="Pi.h" />
     <ClInclude Include="PrimzahlenBisN.h" />
@@ -163,6 +164,7 @@
     <ClCompile Include="Allgorithmen.cpp" />
     <ClCompile Include="DG.cpp" />
     <ClCompile Include="GGT.cpp" />
+    <ClCompile Include="Gleichunssystem.cpp" />
     <ClCompile Include="Integral.cpp" />
     <ClCompile Include="Pi.cpp" />
     <ClCompile Include="PrimzahlenBisN.cpp" />
