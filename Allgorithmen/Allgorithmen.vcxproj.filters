@@ -36,7 +36,7 @@
     <ClInclude Include="DG.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
-    <ClInclude Include="Gleichunssystem.h">
+    <ClInclude Include="Gleichungssystem.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>
@@ -65,7 +65,7 @@
     <ClCompile Include="DG.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
-    <ClCompile Include="Gleichunssystem.cpp">
+    <ClCompile Include="Gleichungssystem.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>
