@@ -155,6 +155,7 @@
     <ClInclude Include="GGT.h" />
     <ClInclude Include="Gleichungssystem.h" />
     <ClInclude Include="Integral.h" />
+    <ClInclude Include="Optimierung.h" />
     <ClInclude Include="Pi.h" />
     <ClInclude Include="PrimzahlenBisN.h" />
     <ClInclude Include="Regression.h" />
@@ -166,6 +167,7 @@
     <ClCompile Include="GGT.cpp" />
     <ClCompile Include="Gleichungssystem.cpp" />
     <ClCompile Include="Integral.cpp" />
+    <ClCompile Include="Optimierung.cpp" />
     <ClCompile Include="Pi.cpp" />
     <ClCompile Include="PrimzahlenBisN.cpp" />
     <ClCompile Include="Regression.cpp" />
